@@ -110,9 +110,7 @@ const View = ({char}) => {
                     </div>
                 </>            
     )
-    CharInfo.prototype = {
-    charId: propTypes.number
-}
+
 }
 
 
