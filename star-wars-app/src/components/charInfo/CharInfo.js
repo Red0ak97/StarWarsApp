@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import propTypes from 'prop-types';
+
 
 import StarWarsServices from '../../services/StarWarsServices';
 import Spinner from '../spinner/Spinner';
